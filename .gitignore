@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0," />
+    
+    <title>Full Screen</title>
+										
+</head>
+
+<body>
+
+<h2>Uneven Wrapping</h2>
+
+<table align="center" width="640" border="1" cellspacing="0" cellpadding="0" class="device-width">
+  <tr>
+    <td>
+        
+        <table align="left" width="31%" border="1" cellspacing="0" cellpadding="0" class="thcol">
+          <tr>
+            <td align="center">
+                <img src="http://placehold.it/195x130/" />
+            </td>
+          </tr>
+        </table>
+        
+		<table border="0" cellspacing="0" cellpadding="0" align="left" width="20" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td>&nbsp;</td></tr></table>
+        
+        <table align="left" width="31%" border="1" cellspacing="0" cellpadding="0" class="thcol">
+          <tr>
+            <td align="center">
+                <img src="http://placehold.it/195x130/" />
+            </td>
+          </tr>
+        </table>
+        
+        <table align="right" width="31%" border="1" cellspacing="0" cellpadding="0" class="thcol">
+          <tr>
+            <td align="center">
+                <img src="http://placehold.it/195x130/" />
+            </td>
+          </tr>
+        </table>
+        
+    </td>
+  </tr>
+</table>
+
+
+<h2>It is solution (Center aligned)</h2>
+
+<table align="center" width="640" border="1" cellspacing="0" cellpadding="0" class="device-width">
+  <tr>
+    <td>
+        
+        <table align="left" width="31%" border="1" cellspacing="0" cellpadding="0" class="thcol">
+          <tr>
+            <td align="center" width="360">
+                <img src="http://placehold.it/195x130/" />
+            </td>
+          </tr>
+        </table>
+        
+		<table border="0" cellspacing="0" cellpadding="0" align="left" width="20" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td>&nbsp;</td></tr></table>
+        
+        <table align="left" width="31%" border="1" cellspacing="0" cellpadding="0" class="thcol">
+          <tr>
+            <td align="center" width="360">
+                <img src="http://placehold.it/195x130/" />
+            </td>
+          </tr>
+        </table>
+        
+        <table align="right" width="31%" border="1" cellspacing="0" cellpadding="0" class="thcol">
+          <tr>
+            <td align="center" width="360">
+                <img src="http://placehold.it/195x130/" />
+            </td>
+          </tr>
+        </table>
+        
+    </td>
+  </tr>
+</table>
+
+
+
+
+       
+
+</body>
+</html>
